@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iSqmLGFG5Bk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\3421342134\\3421342134\\3421342134.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ATENDIMENTO\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\8.0.7\\microsoft.aspnetcore.components.webassembly.server.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\ATENDIMENTO\source\repos\ProjetoWeb\ProjetoDto\bin\Debug\net8.0\ProjetoDto.deps.json
+C:\Users\ATENDIMENTO\source\repos\ProjetoWeb\ProjetoDto\bin\Debug\net8.0\ProjetoDto.dll
+C:\Users\ATENDIMENTO\source\repos\ProjetoWeb\ProjetoDto\bin\Debug\net8.0\ProjetoDto.pdb
+C:\Users\ATENDIMENTO\source\repos\ProjetoWeb\ProjetoDto\obj\Debug\net8.0\ProjetoDto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATENDIMENTO\source\repos\ProjetoWeb\ProjetoDto\obj\Debug\net8.0\ProjetoDto.AssemblyInfoInputs.cache
+C:\Users\ATENDIMENTO\source\repos\ProjetoWeb\ProjetoDto\obj\Debug\net8.0\ProjetoDto.AssemblyInfo.cs
+C:\Users\ATENDIMENTO\source\repos\ProjetoWeb\ProjetoDto\obj\Debug\net8.0\ProjetoDto.csproj.CoreCompileInputs.cache
+C:\Users\ATENDIMENTO\source\repos\ProjetoWeb\ProjetoDto\obj\Debug\net8.0\ProjetoDto.dll
+C:\Users\ATENDIMENTO\source\repos\ProjetoWeb\ProjetoDto\obj\Debug\net8.0\refint\ProjetoDto.dll
+C:\Users\ATENDIMENTO\source\repos\ProjetoWeb\ProjetoDto\obj\Debug\net8.0\ProjetoDto.pdb
+C:\Users\ATENDIMENTO\source\repos\ProjetoWeb\ProjetoDto\obj\Debug\net8.0\ref\ProjetoDto.dll

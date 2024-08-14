@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|c:\\users\\atendimento\\source\\repos\\projetoweb\\minhaapi\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|solutionrelative:minhaapi\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|c:\\users\\atendimento\\source\\repos\\projetoweb\\minhaapi\\repository\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|solutionrelative:minhaapi\\repository\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|c:\\users\\atendimento\\source\\repos\\projetoweb\\minhaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|solutionrelative:minhaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B80AA3E-3150-42C9-9E13-EEC4F9D42D87}|ProjetoBlazor\\ProjetoBlazor.csproj|c:\\users\\atendimento\\source\\repos\\projetoweb\\projetoblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B80AA3E-3150-42C9-9E13-EEC4F9D42D87}|ProjetoBlazor\\ProjetoBlazor.csproj|solutionrelative:projetoblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|c:\\users\\atendimento\\source\\repos\\projetoweb\\minhaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|solutionrelative:minhaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|c:\\users\\atendimento\\source\\repos\\projetoweb\\minhaapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|solutionrelative:minhaapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B80AA3E-3150-42C9-9E13-EEC4F9D42D87}|ProjetoBlazor\\ProjetoBlazor.csproj|c:\\users\\atendimento\\source\\repos\\projetoweb\\projetoblazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B80AA3E-3150-42C9-9E13-EEC4F9D42D87}|ProjetoBlazor\\ProjetoBlazor.csproj|solutionrelative:projetoblazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B80AA3E-3150-42C9-9E13-EEC4F9D42D87}|ProjetoBlazor\\ProjetoBlazor.csproj|c:\\users\\atendimento\\source\\repos\\projetoweb\\projetoblazor\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B80AA3E-3150-42C9-9E13-EEC4F9D42D87}|ProjetoBlazor\\ProjetoBlazor.csproj|solutionrelative:projetoblazor\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|c:\\users\\atendimento\\source\\repos\\projetoweb\\minhaapi\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|solutionrelative:minhaapi\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|c:\\users\\atendimento\\source\\repos\\projetoweb\\minhaapi\\repository\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|solutionrelative:minhaapi\\repository\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|c:\\users\\atendimento\\source\\repos\\projetoweb\\minhaapi\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|solutionrelative:minhaapi\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|c:\\users\\atendimento\\source\\repos\\projetoweb\\minhaapi\\minhaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|solutionrelative:minhaapi\\minhaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|c:\\users\\atendimento\\source\\repos\\projetoweb\\minhaapi\\entities\\enums\\formatodevenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|solutionrelative:minhaapi\\entities\\enums\\formatodevenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA39DE7D-CC82-4344-A509-5D70C518A18F}|ProjetoDto\\ProjetoDto.csproj|c:\\users\\atendimento\\source\\repos\\projetoweb\\projetodto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA39DE7D-CC82-4344-A509-5D70C518A18F}|ProjetoDto\\ProjetoDto.csproj|solutionrelative:projetodto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA39DE7D-CC82-4344-A509-5D70C518A18F}|ProjetoDto\\ProjetoDto.csproj|c:\\users\\atendimento\\source\\repos\\projetoweb\\projetodto\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA39DE7D-CC82-4344-A509-5D70C518A18F}|ProjetoDto\\ProjetoDto.csproj|solutionrelative:projetodto\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA39DE7D-CC82-4344-A509-5D70C518A18F}|ProjetoDto\\ProjetoDto.csproj|c:\\users\\atendimento\\source\\repos\\projetoweb\\projetodto\\projetodto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA39DE7D-CC82-4344-A509-5D70C518A18F}|ProjetoDto\\ProjetoDto.csproj|solutionrelative:projetodto\\projetodto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B80AA3E-3150-42C9-9E13-EEC4F9D42D87}|ProjetoBlazor\\ProjetoBlazor.csproj|c:\\users\\atendimento\\source\\repos\\projetoweb\\projetoblazor\\projetoblazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B80AA3E-3150-42C9-9E13-EEC4F9D42D87}|ProjetoBlazor\\ProjetoBlazor.csproj|solutionrelative:projetoblazor\\projetoblazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "MinhaApi\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "MinhaApi\\Controllers\\ProdutoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:49:18.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\ProjetoBlazor\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoBlazor\\Program.cs",
+              "ToolTip": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\ProjetoBlazor\\Program.cs",
+              "RelativeToolTip": "ProjetoBlazor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:35:43.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\ProjetoBlazor\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProjetoBlazor\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\ProjetoBlazor\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProjetoBlazor\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T15:51:05.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\ProjetoBlazor\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjetoBlazor\\appsettings.json",
+              "ToolTip": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\ProjetoBlazor\\appsettings.json",
+              "RelativeToolTip": "ProjetoBlazor\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T15:50:57.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\Program.cs",
+              "RelativeDocumentMoniker": "MinhaApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\Program.cs",
+              "RelativeToolTip": "MinhaApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:26:33.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MinhaApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\appsettings.json",
+              "RelativeToolTip": "MinhaApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T15:42:56.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\Context\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "MinhaApi\\Context\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\Context\\MyDbContext.cs",
+              "RelativeToolTip": "MinhaApi\\Context\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:15:15.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\Repository\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "MinhaApi\\Repository\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\Repository\\ProdutoRepository.cs",
+              "RelativeToolTip": "MinhaApi\\Repository\\ProdutoRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:46:54.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MinhaApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MinhaApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T16:38:39.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\Repository\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "MinhaApi\\Repository\\IProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\Repository\\IProdutoRepository.cs",
+              "RelativeToolTip": "MinhaApi\\Repository\\IProdutoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:15:51.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "MinhaApi\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\Entities\\Produto.cs",
+              "RelativeToolTip": "MinhaApi\\Entities\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:58:42.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormatoDeVenda.cs",
+              "DocumentMoniker": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\Entities\\Enums\\FormatoDeVenda.cs",
+              "RelativeDocumentMoniker": "MinhaApi\\Entities\\Enums\\FormatoDeVenda.cs",
+              "ToolTip": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\Entities\\Enums\\FormatoDeVenda.cs",
+              "RelativeToolTip": "MinhaApi\\Entities\\Enums\\FormatoDeVenda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:12:23.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProdutoDto.cs",
+              "DocumentMoniker": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\ProjetoDto\\Dtos\\ProdutoDto.cs",
+              "RelativeDocumentMoniker": "ProjetoDto\\Dtos\\ProdutoDto.cs",
+              "ToolTip": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\ProjetoDto\\Dtos\\ProdutoDto.cs",
+              "RelativeToolTip": "ProjetoDto\\Dtos\\ProdutoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:57:55.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProjetoDto.csproj",
+              "DocumentMoniker": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\ProjetoDto\\ProjetoDto.csproj",
+              "RelativeDocumentMoniker": "ProjetoDto\\ProjetoDto.csproj",
+              "ToolTip": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\ProjetoDto\\ProjetoDto.csproj",
+              "RelativeToolTip": "ProjetoDto\\ProjetoDto.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-12T12:54:53.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProjetoBlazor.csproj",
+              "DocumentMoniker": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\ProjetoBlazor\\ProjetoBlazor.csproj",
+              "RelativeDocumentMoniker": "ProjetoBlazor\\ProjetoBlazor.csproj",
+              "ToolTip": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\ProjetoBlazor\\ProjetoBlazor.csproj",
+              "RelativeToolTip": "ProjetoBlazor\\ProjetoBlazor.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-12T12:54:41.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MinhaApi.csproj",
+              "DocumentMoniker": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\MinhaApi.csproj",
+              "RelativeDocumentMoniker": "MinhaApi\\MinhaApi.csproj",
+              "ToolTip": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\MinhaApi.csproj",
+              "RelativeToolTip": "MinhaApi\\MinhaApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-12T12:53:30.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\ProjetoDto\\Class1.cs",
+              "RelativeDocumentMoniker": "ProjetoDto\\Class1.cs",
+              "ToolTip": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\ProjetoDto\\Class1.cs",
+              "RelativeToolTip": "ProjetoDto\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:53:20.906Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

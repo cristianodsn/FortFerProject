@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YQYgNlaFCzE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\WebProjectBlazor\\WebProjectBlazor\\WebProjectBlazor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ATENDIMENTO\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\8.0.7\\microsoft.aspnetcore.components.webassembly.server.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
