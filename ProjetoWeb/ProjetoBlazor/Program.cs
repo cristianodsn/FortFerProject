@@ -1,4 +1,5 @@
 using ProjetoBlazor.Components;
+using ProjetoBlazor.ProdutoService;
 using System.ComponentModel;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,6 +13,8 @@ builder.Services.AddScoped(sp => new HttpClient
 {
     BaseAddress = new Uri(baseUrl)
 });
+
+builder.Services.AddScoped<IProdutoService, ProdutoService>();
 
 var app = builder.Build();
 

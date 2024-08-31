@@ -1,0 +1,6 @@
+C:\Users\ATENDIMENTO\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net8.0\BlazorApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATENDIMENTO\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net8.0\BlazorApp1.AssemblyInfoInputs.cache
+C:\Users\ATENDIMENTO\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net8.0\BlazorApp1.AssemblyInfo.cs
+C:\Users\ATENDIMENTO\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net8.0\BlazorApp1.csproj.CoreCompileInputs.cache
+C:\Users\ATENDIMENTO\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net8.0\BlazorApp1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ATENDIMENTO\source\repos\BlazorApp1\BlazorApp1\obj\Debug\net8.0\BlazorApp1.sourcelink.json

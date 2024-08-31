@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using MinhaApi.Context;
+using MinhaApi.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +15,8 @@ builder.Services.AddDbContext<MyDbContext>(options =>
 {
     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
+
+builder.Services.AddScoped<IProdutoRepository, ProdutoRepository>();
 
 builder.Services.AddCors(options =>
 {

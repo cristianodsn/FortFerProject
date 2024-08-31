@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ATENDIMENTO\\source\\repos\\BlazorApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEFE890-CED9-4C09-B510-C0B5094C7EDC}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\atendimento\\source\\repos\\blazorapp1\\blazorapp1\\components\\pages\\teste.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CEFE890-CED9-4C09-B510-C0B5094C7EDC}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\teste.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "teste.razor",
+              "DocumentMoniker": "C:\\Users\\ATENDIMENTO\\source\\repos\\BlazorApp1\\BlazorApp1\\Components\\Pages\\teste.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\teste.razor",
+              "ToolTip": "C:\\Users\\ATENDIMENTO\\source\\repos\\BlazorApp1\\BlazorApp1\\Components\\Pages\\teste.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\teste.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T19:58:20.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

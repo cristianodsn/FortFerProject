@@ -1,0 +1,46 @@
+﻿@using ProjetoBlazor.ProdutoService
+@using ProjetoDto.Dtos
+@page "/Teste"
+
+<h3>Teste</h3>
+
+<div class="container mt-4">
+    <h3 class="mb-4">Lista de produtos</h3>
+    <button class="btn btn-primary" @onclick="async () => await CarregarItens()">Carregar Itens</button>
+   
+
+    <div class="mt-4">
+        @if (Itens != null && Itens.Any())
+        {
+            <div class="list-group">
+                @foreach (var produto in Itens)
+                {
+                    <a class="list-group-item list-group-item-action">
+                        <div class="d-flex w-100 justify-content-between">
+                            <h5 class="mb-1">@produto.Nome</h5>
+                            <small class="text-muted">@produto.Preco.ToString("C")</small>
+                        </div>
+                    </a>
+                }
+            </div>
+        }
+        else
+        {
+            <p>Nenhum produto disponível.</p>
+        }
+    </div>
+</div>
+
+@code {
+    [Inject]
+    public IProdutoService ProdutoService { get; set; }
+
+    public IEnumerable<ProdutoDto> Itens { get; set; }
+
+    public async Task CarregarItens()
+    {
+        Console.WriteLine("Botão clicado");
+        Itens = await ProdutoService.GetItens();
+        StateHasChanged();
+    }
+}

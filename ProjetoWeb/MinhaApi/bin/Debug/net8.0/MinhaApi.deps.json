@@ -538,7 +538,10 @@
       "System.Threading.Channels/6.0.0": {},
       "ProjetoDto/1.0.0": {
         "runtime": {
-          "ProjetoDto.dll": {}
+          "ProjetoDto.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

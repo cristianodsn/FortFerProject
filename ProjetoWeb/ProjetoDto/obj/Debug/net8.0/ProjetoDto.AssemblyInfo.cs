@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoDto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4b0d5ec0d16a99d4887dcf2288166da88111c53")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoDto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoDto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

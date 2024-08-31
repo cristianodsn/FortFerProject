@@ -13,14 +13,30 @@ namespace MinhaApi.Repository
         public ProdutoRepository(MyDbContext context) 
         {
             _context = context;
-        }
+        }       
 
-        public Task<IEnumerable<Produto>> GetProdutos()
+        public async Task<IEnumerable<Produto>> GetItens()
         {
-            throw new NotImplementedException();
+            try
+            {
+                var produtos = await _context.produtos
+                    .Select(p => new Produto
+                    {
+                        Id = p.Id,
+                        Nome = p.Nome,
+                        Preco = p.Preco
+                    }).ToListAsync();              
+                return produtos;
+            }
+          catch(Exception ex)
+            {
+                throw new Exception("Erro no servis: " + ex.Message);
+            }
         }
 
-        public async Task<Produto> GetProduto(int id)
+
+
+        public async Task<Produto> GetItem(int id)
         {
             var produto = await _context.produtos.Where(p => p.Id == id)
            .Select(p => new Produto
@@ -32,8 +48,16 @@ namespace MinhaApi.Repository
 
            }).FirstOrDefaultAsync();
 
+            double quantidade = await GetQuantidade(id);
+            produto.QuantidadeEstoque = quantidade;
 
+            return produto;
+        }
+
+        private async Task<double> GetQuantidade(int id)
+        {
             // BLOCO PARA FAZER UM TESTE COM CONSULTAS BRUTAS - DBSET DE qt_saldo_produto É MAIS ADEQUALDO
+
             // Defina a consulta SQL 
             var sql = "SELECT qt_saldo_produto FROM estoque_saldo_deposito WHERE cd_produto = @Id";
 
@@ -63,14 +87,15 @@ namespace MinhaApi.Repository
                     {
                         // Supondo que você está retornando uma string para simplicidade
                         // Adapte conforme necessário para seu caso
-                        double quantidade = (double)reader["qt_saldo_produto"];
-                        produto.QuantidadeEstoque = quantidade;
+                        double quantidade = (double)reader["qt_saldo_produto"];                        
                     }
 
                 }
             }
-
-            return produto;
+            return default;
         }
+
+        
+        
     }
 }

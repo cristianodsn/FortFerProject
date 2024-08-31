@@ -5,6 +5,7 @@ C:\Users\ATENDIMENTO\source\repos\ProjetoWeb\ProjetoDto\obj\Debug\net8.0\Projeto
 C:\Users\ATENDIMENTO\source\repos\ProjetoWeb\ProjetoDto\obj\Debug\net8.0\ProjetoDto.AssemblyInfoInputs.cache
 C:\Users\ATENDIMENTO\source\repos\ProjetoWeb\ProjetoDto\obj\Debug\net8.0\ProjetoDto.AssemblyInfo.cs
 C:\Users\ATENDIMENTO\source\repos\ProjetoWeb\ProjetoDto\obj\Debug\net8.0\ProjetoDto.csproj.CoreCompileInputs.cache
+C:\Users\ATENDIMENTO\source\repos\ProjetoWeb\ProjetoDto\obj\Debug\net8.0\ProjetoDto.sourcelink.json
 C:\Users\ATENDIMENTO\source\repos\ProjetoWeb\ProjetoDto\obj\Debug\net8.0\ProjetoDto.dll
 C:\Users\ATENDIMENTO\source\repos\ProjetoWeb\ProjetoDto\obj\Debug\net8.0\refint\ProjetoDto.dll
 C:\Users\ATENDIMENTO\source\repos\ProjetoWeb\ProjetoDto\obj\Debug\net8.0\ProjetoDto.pdb

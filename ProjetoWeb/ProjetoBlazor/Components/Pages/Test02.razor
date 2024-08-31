@@ -1,0 +1,16 @@
+﻿@page "/teste02"
+
+<h3>Teste</h3>
+
+<button class="btn btn-primary" @onclick="TestarClick">Testar Clique</button>
+
+@code {
+    [Inject]
+    public NavigationManager Navigation { get; set; }
+
+    public void TestarClick()
+    {
+        Console.WriteLine("Botão clicado!");
+        Navigation.NavigateTo("/Teste");
+    }
+}

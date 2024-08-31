@@ -1,6 +1,9 @@
-﻿using MinhaApi.Entities.Enums;
+﻿using Microsoft.Extensions.WebEncoders.Testing;
+
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using ProjetoDto;
+using ProjetoDto.Dtos;
 
 namespace MinhaApi.Entities
 {
@@ -17,10 +20,16 @@ namespace MinhaApi.Entities
         public decimal Preco { get; set; }
 
         public double QuantidadeEstoque { get; set; }
+
+        [Column("qt_peso_liquido")]
         public double Peso { get; set; }
-        string? Tipo { get; set; }
-        bool Promoção { get; set; } = false;
-        bool Esgotado { get; set; } = false;
-        FormatoDeVenda FormatoDeVendaDoProduto { get; set; }
+
+        public string? Fornecedor { get; set; }
+        public bool Promocao { get; set; } = false;
+        public bool Esgotado { get; set; } = false;
+        public string? FormatoDeVenda { get; set; }
+
+        public string? TipoDeProduto { get; set; }
+
     }
 }
