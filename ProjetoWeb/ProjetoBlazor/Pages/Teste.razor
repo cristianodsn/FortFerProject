@@ -1,0 +1,28 @@
+﻿@using ProjetoDto.Dtos
+@using Services
+@page "/teste"
+
+<h3>Teste teste</h3>
+    @foreach(var item in Produtos)
+    {
+        <h3>@item.Nome</h3>
+    }
+
+@code {
+    public IEnumerable<ProdutoDto>? Produtos { get; set; } = new List<ProdutoDto>();
+    [Inject]
+    public IProdutoService produtoService { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            Produtos = await produtoService.GetProdutos();           
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Erro ao buscar produtos: {ex.Message}");
+        }
+       
+    }
+}

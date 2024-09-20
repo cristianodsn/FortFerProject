@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B80AA3E-3150-42C9-9E13-EEC4F9D42D87}|ProjetoBlazor\\ProjetoBlazor.csproj|c:\\users\\atendimento\\source\\repos\\projetoweb\\projetoblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B80AA3E-3150-42C9-9E13-EEC4F9D42D87}|ProjetoBlazor\\ProjetoBlazor.csproj|solutionrelative:projetoblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|c:\\users\\atendimento\\source\\repos\\projetoweb\\minhaapi\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|solutionrelative:minhaapi\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B80AA3E-3150-42C9-9E13-EEC4F9D42D87}|ProjetoBlazor\\ProjetoBlazor.csproj|c:\\users\\atendimento\\source\\repos\\projetoweb\\projetoblazor\\components\\pages\\agoravai.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B80AA3E-3150-42C9-9E13-EEC4F9D42D87}|ProjetoBlazor\\ProjetoBlazor.csproj|solutionrelative:projetoblazor\\components\\pages\\agoravai.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|c:\\users\\atendimento\\source\\repos\\projetoweb\\minhaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|solutionrelative:minhaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B80AA3E-3150-42C9-9E13-EEC4F9D42D87}|ProjetoBlazor\\ProjetoBlazor.csproj|c:\\users\\atendimento\\source\\repos\\projetoweb\\projetoblazor\\components\\pages\\test02.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B80AA3E-3150-42C9-9E13-EEC4F9D42D87}|ProjetoBlazor\\ProjetoBlazor.csproj|solutionrelative:projetoblazor\\components\\pages\\test02.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|c:\\users\\atendimento\\source\\repos\\projetoweb\\minhaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4CCC31B-15E5-4F9D-B326-EF223D6903B5}|MinhaApi\\MinhaApi.csproj|solutionrelative:minhaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,41 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\ProjetoBlazor\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "ProjetoBlazor\\Components\\_Imports.razor",
-              "ToolTip": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\ProjetoBlazor\\Components\\_Imports.razor",
-              "RelativeToolTip": "ProjetoBlazor\\Components\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-31T14:17:20.024Z",
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\Context\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "MinhaApi\\Context\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\Context\\MyDbContext.cs",
+              "RelativeToolTip": "MinhaApi\\Context\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:53:24.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AgoraVai.razor",
-              "DocumentMoniker": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\ProjetoBlazor\\Components\\Pages\\AgoraVai.razor",
-              "RelativeDocumentMoniker": "ProjetoBlazor\\Components\\Pages\\AgoraVai.razor",
-              "ToolTip": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\ProjetoBlazor\\Components\\Pages\\AgoraVai.razor",
-              "RelativeToolTip": "ProjetoBlazor\\Components\\Pages\\AgoraVai.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-31T14:03:15.452Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\Program.cs",
+              "RelativeDocumentMoniker": "MinhaApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\Program.cs",
+              "RelativeToolTip": "MinhaApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:45:14.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Test02.razor",
-              "DocumentMoniker": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\ProjetoBlazor\\Components\\Pages\\Test02.razor",
-              "RelativeDocumentMoniker": "ProjetoBlazor\\Components\\Pages\\Test02.razor",
-              "ToolTip": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\ProjetoBlazor\\Components\\Pages\\Test02.razor",
-              "RelativeToolTip": "ProjetoBlazor\\Components\\Pages\\Test02.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-30T17:49:51.47Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MinhaApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\ATENDIMENTO\\source\\repos\\ProjetoWeb\\MinhaApi\\appsettings.json",
+              "RelativeToolTip": "MinhaApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T14:29:29.264Z"
             }
           ]
         }

@@ -1,37 +1,13 @@
-using ProjetoBlazor.Components;
-using ProjetoBlazor.ProdutoService;
+using Microsoft.AspNetCore.Components.Web;
+using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
+using ProjetoBlazor;
+using ProjetoBlazor.Services;
 using System.ComponentModel;
 
-var builder = WebApplication.CreateBuilder(args);
-
-// Add services to the container.
-builder.Services.AddRazorComponents();
-
-
-var baseUrl = "https://localhost:7153";
-builder.Services.AddScoped(sp => new HttpClient
-{
-    BaseAddress = new Uri(baseUrl)
-});
-
+var builder = WebAssemblyHostBuilder.CreateDefault(args);
+builder.RootComponents.Add<App>("#app");
+builder.RootComponents.Add<HeadOutlet>("head::after");
 builder.Services.AddScoped<IProdutoService, ProdutoService>();
-
-var app = builder.Build();
-
-// Configure the HTTP request pipeline.
-if (!app.Environment.IsDevelopment())
-{
-    app.UseExceptionHandler("/Error", createScopeForErrors: true);
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-    app.UseHsts();
-}
-
-
-app.UseHttpsRedirection();
-
-app.UseStaticFiles();
-app.UseAntiforgery();
-
-app.MapRazorComponents<App>();
-
-app.Run();
+var baseUrl = "https://localhost:7153";
+builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(baseUrl)});
+await builder.Build().RunAsync();
